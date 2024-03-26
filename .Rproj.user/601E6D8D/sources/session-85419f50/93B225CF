@@ -1,14 +1,14 @@
 {
-    "id": "6103B4DE",
-    "path": "~/Documents/GitHub/workshopRITM/module1/module1.qmd",
-    "project_path": "module1/module1.qmd",
+    "id": "93B225CF",
+    "path": "~/Documents/GitHub/courseMahidol1/resources.qmd",
+    "project_path": "resources.qmd",
     "type": "quarto_markdown",
-    "hash": "876244575",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1710952728408.0,
+    "created": 1710952697087.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "4,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "424:0"
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710952742,
+    "lastKnownWriteTime": 1710952701,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710952742454,
+    "last_content_update": 1710952701210,
     "read_only": false,
     "read_only_alternatives": []
 }
