@@ -1,0 +1,91 @@
+---
+- name: Set up workshop
+  gather_facts: false
+  hosts: webservers
+  remote_user: root
+  tasks:
+    - name: "Install aptitude"
+      ansible.builtin.apt:
+        name: aptitude
+        update_cache: true
+    - name: "Install required system packages"
+      ansible.builtin.apt:
+        pkg:
+          - apt-transport-https
+          - ca-certificates
+          - curl
+          - software-properties-common
+          - python3-pip
+          - git
+          - virtualenv
+          - python3-setuptools
+        update_cache: true
+    - name: "Add Docker GPG apt Key"
+      ansible.builtin.apt_key:
+        url: https://download.docker.com/linux/ubuntu/gpg
+        state: present
+    - name: "Add Docker Repository"
+      ansible.builtin.apt_repository:
+        repo: deb https://download.docker.com/linux/ubuntu focal stable
+        state: present
+    - name: Update apt and install docker-ce
+      ansible.builtin.apt:
+        name: docker-ce
+        update_cache: true
+    - name: "Download Miniconda"
+      ansible.builtin.get_url:
+        url: https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+        dest: /tmp/install-miniconda.sh
+        mode: "0755"
+    - name: "Create conda folder"
+      ansible.builtin.file:
+        path: /opt/miniconda3
+        state: directory
+        owner: root
+        mode: "0755"
+        recurse: true
+    - name: "Run the installer"
+      become: true
+      ansible.builtin.shell: /tmp/install-miniconda.sh -b -u -p /opt/miniconda3
+    - name: Conda - read permission for all
+      ansible.builtin.file:
+        path: /opt/miniconda3
+        mode: +r
+        recurse: true
+    - name: Conda - execution permission for all
+      ansible.builtin.file:
+        path: /opt/miniconda3/bin
+        mode: +x
+        recurse: true
+    - name: Create user1
+      ansible.builtin.user:
+        name: user1
+    - name: Create user2
+      ansible.builtin.user:
+        name: user2
+    - name: Copy bashrc (user1) with owner and permissions
+      ansible.builtin.copy:
+        src: .bashrc
+        dest: /home/user1/.bashrc
+        owner: user1
+        group: user1
+        mode: '0644'
+    - name: Copy bashrc (user2) with owner and permissions
+      ansible.builtin.copy:
+        src: .bashrc
+        dest: /home/user2/.bashrc
+        owner: user2
+        group: user2
+        mode: '0644'
+    - name: Install mamba
+      become: true
+      become_user: user1
+      ansible.builtin.shell: /opt/miniconda3/bin/conda install -y -n base conda-libmamba-solver && /opt/miniconda3/bin/conda config --set solver libmamba
+      args:
+        executable: /bin/bash
+    - name: Install nextflow  
+      become: true
+      become_user: user1
+      ansible.builtin.shell: /opt/miniconda3/bin/conda -y install -c bioconda nextflow
+      args:
+        executable: /bin/bash

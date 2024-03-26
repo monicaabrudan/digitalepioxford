@@ -1,0 +1,53 @@
+{
+  "module4/module4.qmd": {
+    "module4.html": "a403344d"
+  },
+  "module3/module3.qmd": {
+    "module3.html": "2ef3609a"
+  },
+  "module2/module2.qmd": {
+    "module2.html": "f3849e6b"
+  },
+  "module5/data-flo/data-flo.qmd": {
+    "data-flo.html": "04f7b903"
+  },
+  "module5/data-flo/data-flo_doc.qmd": {
+    "data-flo_doc.html": "30659458"
+  },
+  "module5/module5.qmd": {
+    "module5.html": "83445005"
+  },
+  "index.qmd": {
+    "index.html": "968389cf"
+  },
+  "agenda.qmd": {
+    "agenda.html": "787e87e8"
+  },
+  "Syllabus.qmd": {
+    "Syllabus.html": "c22995a2"
+  },
+  "module6/microreact/microreact.qmd": {
+    "microreact.html": "3b89accd"
+  },
+  "module6/microreact/microreact_doc.qmd": {
+    "microreact_doc.html": "a783a93d"
+  },
+  "module6/module6.qmd": {
+    "module6.html": "a4e2dc75"
+  },
+  "module1/definitions.qmd": {
+    "definitions.html": "5a8ff8ae"
+  },
+  "module1/stakeholders-mapping.qmd": {
+    "stakeholders-mapping.html": "bd5aaa3c"
+  },
+  "module1/module1.qmd": {
+    "module1.html": "aa002e71"
+  },
+  "resources.qmd": {
+    "resources.html": "72813b9e"
+  },
+  "bioinformatics.qmd": {
+    "bioinformatics.html": "30c15d41"
+  }
+}

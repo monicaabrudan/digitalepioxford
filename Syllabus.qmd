@@ -1,0 +1,41 @@
+---
+title: "Digital Epidemiology"
+---
+
+![Topics to be addressed during the first two days.](img/stakeholders.jpg){width="80%"}
+
+### Training Objectives
+
+During the first two days, **the objectives** are to 1) Refresh relevant domain specific knowledge and knowledge of tools frequently used in Digital Epidemiology, 2) Discuss real-case scenarios where digital epidemiology generated actionable data for public health, 3) Analyse GHRU-Nigeria's **stakeholders map**, 4) Identify the systems and data architectures 5) Identify strengths, challenges and priorities in Digital Epidemiology and 6) Start a support network for developing strength in Digital Epidemiology.
+
+**Learning objectives.** By the end of the first two days, the participants will be able to 1) identify relevant internal and external stakeholders, important to their work environment 2) identify areas of weakness and strength in local digital epidemiology 3) Explain how digital epidemiology can be applied in their own country-context 4) Discuss other real-world scenarios of applied digital epidemiology.
+
+### Targeted competencies and Knowledge, Skills and Attitudes
+
+-   Digital Epidemiology data tools and workflows
+
+-   Flow of data from sample to decision-making
+
+-   Integration of epidemiological, laboratory and genomic data
+
+-   Integrated skills: Communication, Networking, Reporting
+
+### Training Methods and Instructional Strategies
+
+-   Discussions, hands-on activities
+
+### Duration of training
+
+-   Two days (14h total)
+
+### Resources
+
+A series of resources will be made available for participants prior, during and after the workshop: tutorials / documentation and printed training materials.
+
+### Recommended background knowledge
+
+-   Biological and clinical mechanisms underlying infectious pathogens
+-   Infectious disease epidemiology and surveillance
+-   Disease outbreaks
+-   Pathogens of clinical significance
+-   Antimicrobial resistance

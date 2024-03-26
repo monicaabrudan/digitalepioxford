@@ -1,0 +1,7 @@
+---
+title: "Agenda"
+---
+
+The detailed agenda can be found [here](https://docs.google.com/document/d/1ccSbHb8QIDwbDwHtLyLSch2fQrQ92a10pVIGtL2jcjU/edit?usp=sharing).
+
+![](img/agenda.png){width="80%"}
