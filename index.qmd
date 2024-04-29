@@ -7,7 +7,7 @@ format: html
 
 <style>
   body {
-  background-image: url("https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg");
+  background-image: url("img/oxford.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
