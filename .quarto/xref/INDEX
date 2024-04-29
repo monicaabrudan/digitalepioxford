@@ -49,5 +49,20 @@
   },
   "bioinformatics.qmd": {
     "bioinformatics.html": "30c15d41"
+  },
+  "coc.qmd": {
+    "coc.html": "6d287c8a"
+  },
+  "venue.qmd": {
+    "venue.html": "4babdf75"
+  },
+  "speakerinfo.qmd": {
+    "speakerinfo.html": "c2e26e80"
+  },
+  "FAQ.qmd": {
+    "FAQ.html": "3da1a276"
+  },
+  "practicalinfo.qmd": {
+    "practicalinfo.html": "aab00ced"
   }
 }
