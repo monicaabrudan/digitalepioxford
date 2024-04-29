@@ -1,5 +1,18 @@
 ---
 title: "Index"
 ---
+---
+format: html
+---
+
+<style>
+  body {
+  background-image: url("https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
 
 ***The materials provided in this repository are FREE to use.*** ***This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement.***
