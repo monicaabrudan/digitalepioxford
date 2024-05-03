@@ -1,18 +1,69 @@
 ---
-title: "Index"
+title: "Digital Epidemiology with Applications in Public Health, Oxford, 16-18 July 2024"
 ---
+
 ---
 format: html
 ---
 
+```{=html}
 <style>
-  body {
-  background-image: url("img/oxford.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+ <div>
+ <img src="img/oxford2.png"\>
+ <p> Digital Epidemiology with Applications in Public Health, Oxford, 16-18 July 2024</p>
+</div>
+  }
   
 </style>
+```
+Digital Epidemiology is the real-time integration of clinical, laboratory and genomic information, to serve early outbreak detection, syndromic surveillance, public health surveillance and predictive modelling. This three-day course will combine foundational knowledge, practical skills, and expert insights. Day 1 introduces the field with real-world applications and hands-on data analysis and visualisation exercises. Day 2 emphasises implementation strategies, featuring a stakeholder mapping and data architecture workshop and global perspectives from national and continental public health agencies’ experts. The final day focuses on applying these skills to outbreak investigations, culminating in group presentations. Designed for public health professionals, this course offers a blend of theory and practice, equipping participants with the tools to harness digital data for rapid public health responses and decision-making. In the two workshops, attendees will be working in groups, which will provide an opportunity for them to engage in discussions about their progress with fellow participants and to obtain feedback from their peers.
 
+**Intended audience**
 
-***The materials provided in this repository are FREE to use.*** ***This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement.***
+Our target audience is composed of epidemiologists, public health experts, public health bioinformaticians, public health microbiologists, health data scientists, and clinicians with an interest in epidemiology and/or data science. Delegates from academic, industry, and other backgrounds are welcome.
+
+**Objectives**
+
+At the end of the course, participants can expect to be able to explain the relevance of digital epidemiology for rapid public health action, based on real-case scenarios. Additionally, attendees will be able to apply different digital epidemiology tools and implement a data integration and visualisation strategy for surveillance or outbreak investigation. Participants will identify strengths, challenges, and priorities in Digital Epidemiology and generate stakeholder maps all to their specific work context to aid the implementation of digital epidemiology.
+
+**Course coordinators**
+
+Monica Abrudan, Oxford, UK
+
+Natacha Couto, Oxford, UK
+
+**Organisers**
+
+[ESGEM](https://www.escmid.org/esgem/) and The Centre for Genomic Pathogen Surveillance, Pandemic Science Institute, University of Oxford.
+
+**Accreditation**
+
+ESCMID Office will apply for accreditation.
+
+**Certification**
+
+Course organisers will monitor attendance. Only participants attending live sessions will be able to receive the certification.
+
+**Course Venue**
+
+[Tun Razak Lecture Theatre, Blavatnik School of Government, Oxford, UK](https://www.accessguide.ox.ac.uk/the-blavatnik-school-of-government)
+
+120 Walton St, Oxford OX2 6GG, UK
+
+Tel: 01865 616693
+
+[www.bsg.ox.ac.uk](www.bsg.ox.ac.uk)
+
+**Accommodation**
+
+[Wadham College, Dorothy Wadham Annexe, Iffley Road, Oxford, UK](https://events.wadham.ox.ac.uk/dorothy-wadham-building)
+
+**Registration details**
+
+Onsite registration covers access to the sessions, accommodation for 3 nights (15, 16 and 17th of July 2024), 3 meals per day and coffee breaks, bus ticket from the accommodation to the course venue. It does NOT cover travel costs. Online registration covers access to the sessions via Zoom.
+
+**Contact us**
+
+Email: natacha.couto\[\@\]cgps.group; monica.abrudan\[\@\]cgps.group
+
+Website: https://www.pathogensurveillance.net/

@@ -1,0 +1,57 @@
+---
+title: "Day 2, Wednesday, 17 July 2024"
+---
+
+**SESSION 4: Empowering Digital Epidemiology implementation: Stakeholder mapping and context specific assessment of strengths, challenges and opportunities**
+
+*Chair: Monica Abrudan*
+
+**09:00 – 10:00** Introduction to Digital Epidemiology workshop – Theory for stakeholder mapping and identification of strengths, challenges and opportunities in Digital Epidemiology in specific contexts
+
+*Natacha Couto, Emmanuelle Kumaran, Georgina Lewis-Woodhouse*
+
+**10:00 - 10:30** Liberating logbook data: overcoming digital epidemiology barriers in a resource-limited antimicrobial resistance surveillance system
+
+*Iruka Okeke*
+
+**10:30 – 11:00** Break
+
+**11:00 – 11:30** Importance of defining data and system architecture in Public Health, learning from the Philippines
+
+*Sonia Sia*
+
+**11:30 – 12:00** Striving for data and system architecture optimization, lessons from Sweden
+
+*Per Sikora*
+
+**SESSION 5: Hands-on exercise on stakeholder mapping, data and system architecture**
+
+**12:00 - 13:00** Workshop I: Participants work on their own Digital Epidemiology project (Stakeholder mapping/defining data and system architecture, challenges, priorities)
+
+*Facilitators: Emmanuelle Kumaran, Georgina Lewis-Woodhouse and Ferissa Ablola*
+
+**13:00 – 14:00** Lunch
+
+**14:00 - 15:00** Workshop I: Participants work on their own Digital Epidemiology project (Stakeholder mapping/defining data and system architecture, challenges, priorities)
+
+*Facilitators: Emmanuelle Kumaran, Georgina Lewis-Woodhouse and Ferissa Ablola*
+
+**15:00 – 15:30** Break
+
+**SESSION 6: Data sharing, data privacy and ethics**
+
+*Chair: Georgina Lewis-Woodhouse*
+
+**15:30 - 16:00** EFSA and ECDC One Health Whole Genome Sequencing (WGS) System
+
+*Mirko Rossi*
+
+**16:00 - 16:30** ECDC Genomic-based surveillance at the continental level
+
+*Erik Alm*
+
+**16:30 - 17:00** Pathogen Surveillance in Agriculture, Food and Environment Programme (PATH-SAFE)
+
+*Rick Mumford*
+
+**18 :30** Dinner

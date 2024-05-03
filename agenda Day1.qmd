@@ -1,8 +1,6 @@
 ---
-title: "Agenda"
+title: "Day 1, Tuesday, 16 July 2024"
 ---
-
-**Day 1, Tuesday, 16 July 2024**
 
 **08:30 – 09:15** Registration
 
@@ -67,6 +65,7 @@ title: "Agenda"
 **16:00 - 16:30** Examples of data sources facilitating rapid decision-making: clinical data, genomics, and data from local governments
 
 *Moritz Kraemer*
+
 **16:30 - 17:00** The need for rapid data integration for quick response in clinical practice
 
 *Charlene Rodrigues*
